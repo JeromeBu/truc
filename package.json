@@ -1,0 +1,23 @@
+{
+  "name": "truc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "salut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeromeBu/truc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeromeBu/truc/issues"
+  },
+  "homepage": "https://github.com/JeromeBu/truc#readme",
+  "dependencies": {
+    "jest": "^23.5.0"
+  }
+}
